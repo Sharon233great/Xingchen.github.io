@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+  </li>
+            <li>
+                <a href="../assests/CV_Xingchen Wei.pdf" title="Resume">
+                    <span>Resume</span>
+                </a>
+            </li>
+
+
 Education
 ======
 * B.S. in Education Studies, Miami University, May 2022
