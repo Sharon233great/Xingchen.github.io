@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Education Studies, Miami University, May 2022
+* B.A. in Psychology, Miami University, May 2022
+* M.Ed. in International Education Policy and Management, Vanderbilt University, Expected May 2024
 
 Work experience
 ======
