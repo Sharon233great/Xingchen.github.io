@@ -15,9 +15,15 @@ Education
 * B.A. in Psychology, Miami University, May 2022
 * M.Ed. in International Education Policy and Management, Vanderbilt University, Expected May 2024
 
+Research Project
+======
+* Humphrey's Fellows Program Consultant Spring 2023
+  * •	Developed and conducted in-depth research using various theories and provided a cohesive logical model.
+  * •	Counseled and designed an evaluation plan including a detailed timeline, surveys, and analysis with input from various stakeholders.
+
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Vanderbilt Institute for Global Health: Research Assistant 10/2022-Present 
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -27,6 +33,12 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
 * Skill 1
@@ -35,25 +47,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
