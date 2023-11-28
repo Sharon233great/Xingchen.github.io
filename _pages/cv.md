@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink:"../assets/CV_Xingchen Wei.pdf" title="CV"/
+permalink:/CV/
 author_profile: true
 redirect_from:
   - /resume
