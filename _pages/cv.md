@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink:   </li>
             <li>
-                <a href="../assets/CV_Xingchen Wei.pdf" title="Resume">
+                <a href="../assets/CV_Xingchen Wei.pdf" title="CV">
                     <span>Resume</span>
                 </a>
             </li>
@@ -17,7 +17,7 @@ redirect_from:
 
   </li>
             <li>
-                <a href="../assets/CV_Xingchen Wei.pdf" title="Resume">
+                <a href="../assets/CV_Xingchen Wei.pdf" title="CV">
                     <span>Resume</span>
                 </a>
             </li>
