@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink:assests/CV_Xingchen Wei.pdf" title="Resume/
+permalink:../assets/CV_Xingchen Wei.pdf" title="Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,7 @@ redirect_from:
 
   </li>
             <li>
-                <a href="../assests/CV_Xingchen Wei.pdf" title="Resume">
+                <a href="../assets/CV_Xingchen Wei.pdf" title="Resume">
                     <span>Resume</span>
                 </a>
             </li>
